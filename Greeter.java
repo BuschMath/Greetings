@@ -25,5 +25,8 @@ public class Greeter
         return "Hello, " + name + "!";
     }
 
+    /**
+     * This is an example of a field
+     */
     private String name;
 }
